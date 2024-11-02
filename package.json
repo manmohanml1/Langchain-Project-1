@@ -2,8 +2,8 @@
   "name": "monorepo-template",
   "private": true,
   "version": "1.0.0",
-  "author": "Brace Sproul",
-  "license": "MIT",
+  "author": "Manmohan Mahavir Lonawat",
+  "license": "MML",
   "workspaces": [
     "api",
     "web"
